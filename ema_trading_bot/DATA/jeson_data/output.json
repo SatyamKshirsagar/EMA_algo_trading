@@ -1,0 +1,135 @@
+{
+    "timestamp": "2024-10-02 13:03:06",
+    "date": "2024-10-02",
+    "month": "October",
+    "enjoy": {
+        "USDAUD": {
+            "suggetion": "Sell",
+            "Trend": "Downtrend",
+            "price": 1.4493,
+            "target": 1.4489,
+            "stop_loss": 1.4496,
+            "probablity_for_wining": 100
+        },
+        "ATOM-USD": {
+            "suggetion": null,
+            "Trend": "uptrend",
+            "price": 4.5,
+            "target": 4.5,
+            "stop_loss": 4.5,
+            "probablity_for_wining": 100
+        },
+        "NZDCAD": {
+            "suggetion": "Sell",
+            "Trend": "Downtrend",
+            "price": 0.8408,
+            "target": 0.8405,
+            "stop_loss": 0.841,
+            "probablity_for_wining": 95
+        },
+        "EURAUD": {
+            "suggetion": "Buy",
+            "Trend": "uptrend",
+            "price": 1.6119,
+            "target": 1.6121,
+            "stop_loss": 1.6117,
+            "probablity_for_wining": 100
+        },
+        "SOL-USD": {
+            "suggetion": "Buy",
+            "Trend": "uptrend",
+            "price": 139.9,
+            "target": 140.4,
+            "stop_loss": 139.6,
+            "probablity_for_wining": 100
+        },
+        "AUDNZD": {
+            "suggetion": "Buy",
+            "Trend": "uptrend",
+            "price": 1.1031,
+            "target": 1.1034,
+            "stop_loss": 1.1029,
+            "probablity_for_wining": 95
+        },
+        "GBPCAD": {
+            "suggetion": "Buy",
+            "Trend": "uptrend",
+            "price": 1.785,
+            "target": 1.7863,
+            "stop_loss": 1.7841,
+            "probablity_for_wining": 100
+        },
+        "GBPCHF": {
+            "suggetion": "Buy",
+            "Trend": "uptrend",
+            "price": 1.1218,
+            "target": 1.1231,
+            "stop_loss": 1.1209,
+            "probablity_for_wining": 100
+        },
+        "EURNZD": {
+            "suggetion": "Buy",
+            "Trend": "uptrend",
+            "price": 1.7782,
+            "target": 1.7789,
+            "stop_loss": 1.7778,
+            "probablity_for_wining": 90
+        },
+        "GBPNZD": {
+            "suggetion": "Buy",
+            "Trend": "uptrend",
+            "price": 2.1224,
+            "target": 2.1238,
+            "stop_loss": 2.1215,
+            "probablity_for_wining": 100
+        },
+        "PL": {
+            "suggetion": "Sell",
+            "Trend": "Downtrend",
+            "price": 992.1,
+            "target": 991.05,
+            "stop_loss": 992.8,
+            "probablity_for_wining": 100
+        },
+        "EURJPY": {
+            "suggetion": "Buy",
+            "Trend": "uptrend",
+            "price": 162.885,
+            "target": 163.264,
+            "stop_loss": 162.6323,
+            "probablity_for_wining": 100
+        },
+        "AUDJPY": {
+            "suggetion": "Buy",
+            "Trend": "uptrend",
+            "price": 100.978,
+            "target": 101.1797,
+            "stop_loss": 100.8435,
+            "probablity_for_wining": 100
+        },
+        "CADJPY": {
+            "suggetion": "Buy",
+            "Trend": "uptrend",
+            "price": 109.292,
+            "target": 109.6172,
+            "stop_loss": 109.0752,
+            "probablity_for_wining": 100
+        },
+        "CHFJPY": {
+            "suggetion": "Buy",
+            "Trend": "uptrend",
+            "price": 173.033,
+            "target": 173.3582,
+            "stop_loss": 172.8162,
+            "probablity_for_wining": 100
+        },
+        "GBPJPY": {
+            "suggetion": "Buy",
+            "Trend": "uptrend",
+            "price": 194.834,
+            "target": 195.5824,
+            "stop_loss": 194.3351,
+            "probablity_for_wining": 100
+        }
+    }
+}
